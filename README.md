@@ -106,4 +106,9 @@ Content-Type: application/json
 
 ## License
 
-MIT
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+_Developed by fatema-dev_
+
